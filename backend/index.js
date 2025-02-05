@@ -11,7 +11,7 @@ app.use(cors());
 app.use(cookieParser());
 connectDB();
 const PORT = process.env.PORT || 3000;
-
+// uykuvhlbgih;ok'eo[l1ertrwyeitwuy]
 app.use("/api/auth", authRouter);
 
 app.listen(PORT, () => {
